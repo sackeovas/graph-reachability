@@ -6,8 +6,6 @@ The vertices are represented by a `struct vertex` with an ID and a list of edges
 
 All code, including simple test cases, is contained in one file: reach.c. When you compile and run this file, the tests will run automatically and print a confirmation message if everything works correctly.
 
-> Note: This project was done as part of the course PB111 (Low-Level Programming Basics) at university.
-
 ## How to compile and run
 
 You need a C compiler, e.g. GCC. From the terminal, in the project folder:
